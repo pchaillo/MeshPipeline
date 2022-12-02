@@ -8,3 +8,4 @@ Launch
 ```console
 python main_stl_to_vtk.py
 ```
+in the project folder in your terminal
