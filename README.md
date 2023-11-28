@@ -9,3 +9,17 @@ Launch
 python main_stl_to_vtk.py
 ```
 in the project folder in your terminal
+
+# Recquirement 
+
+FreeCAD :
+```console
+sudo apt-get install freecad
+```
+
+Python libraries
+``` console
+pip3 install openpyscad
+pip3 install pygmsh
+pip3 install meshio
+```
