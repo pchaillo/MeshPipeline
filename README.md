@@ -23,3 +23,7 @@ pip3 install openpyscad
 pip3 install pygmsh
 pip3 install meshio
 ```
+
+Authors :
+Paul Chaillou
+Stefan Escaida
