@@ -25,5 +25,7 @@ pip3 install meshio
 ```
 
 Authors :
-Paul Chaillou
+Paul Chaillou /
 Stefan Escaida
+
+Also available on Framagit : https://framagit.org/pchaillo/stl2vtk
